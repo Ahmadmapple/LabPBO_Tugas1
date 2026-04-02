@@ -10,7 +10,7 @@ Di dalam folder `src`, terdapat beberapa package dengan struktur sebagai berikut
   ├── smartdevice     -> Soal 4
   ├── transport       -> Soal 3
   └── university      -> Soal 1 dan Soal 2
-      ├── main        -> MainApp (Soal 1 dan 2 dalam satu program)
-      ├── model
-      └── staff
+      ├── main        -> MainApp untuk Soal 1 dan 2 dalam satu program
+      ├── model       -> Soal 1
+      └── staff       -> Soal 2
 ```
