@@ -1,4 +1,7 @@
 # LabPBO_Tugas1
+Nama: Achmad Caesar Ramadhan
+NIM: 241401011
+Mata Kuliah: Pemrograman Berorientasi Objek
 
 Repository ini dibuat untuk menyimpan tugas pertama Lab PBO.
 
