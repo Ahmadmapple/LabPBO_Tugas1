@@ -1,13 +1,16 @@
 # LabPBO_Tugas1
-repo ini dibuat untuk menyimpan tugas pertama Lab PBO
 
-didalamnya file src terdapat beberapa package, strukturnya sebagai berikut:
+Repository ini dibuat untuk menyimpan tugas pertama Lab PBO.
 
--edu
-  -ecommerce -> Soal 5
-  -smartdevice -> Soal 4
-  -transport -> Soal 3
-  -university -> Soal 2 dan Soal 1
-    -main -> MainApp Soal 2 dan Soal 1 disini jadi satu program
-    -model
-    -staff
+Di dalam folder `src`, terdapat beberapa package dengan struktur sebagai berikut:
+
+```
+- edu
+  ├── ecommerce        -> Soal 5
+  ├── smartdevice     -> Soal 4
+  ├── transport       -> Soal 3
+  └── university      -> Soal 1 dan Soal 2
+      ├── main        -> MainApp (Soal 1 dan 2 dalam satu program)
+      ├── model
+      └── staff
+```
